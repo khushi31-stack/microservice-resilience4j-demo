@@ -72,4 +72,9 @@ microservices-resilience4j-demo/
 │   └── application.properties
 └── README.md
 
+Project Deliverables:
+[demo video](https://drive.google.com/file/d/1Sh-EXeQ_1t4hRpxUVVZ19db23l--8q8-/view?usp=sharing)
+[presentation](https://docs.google.com/presentation/d/1Jyl__WafFAa7EgXYkRIB_cIxnrMdJVW1/edit?usp=share_link&ouid=110946249228515755175&rtpof=true&sd=true)
+[Zip file](https://drive.google.com/file/d/1T_Nj0ST5SXP46MF8n4S3Af92Gbk781cg/view?usp=sharing)
+[summary report](https://drive.google.com/file/d/1VStucVCEdDuu45gAyiVyrAwYhuPmInHg/view?usp=sharing)
 
